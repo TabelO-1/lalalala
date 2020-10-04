@@ -1,0 +1,6 @@
+Markdown - Is a coding laugnague
+Terminal - The Operating System of your compater
+Version Control System - A system that controls the version
+Git - git is a version control sytems
+Githun - Is a place share code
+GUI - Is a graphical user interface
